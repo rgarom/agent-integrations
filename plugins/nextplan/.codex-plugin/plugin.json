@@ -6,6 +6,7 @@
     "name": "nextplan"
   },
   "homepage": "https://www.nextplan.es/asistentes",
+  "repository": "https://github.com/rgarom/agent-integrations",
   "skills": "./skills/",
   "mcpServers": "./.mcp.json",
   "interface": {

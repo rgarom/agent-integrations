@@ -1,7 +1,7 @@
 {
-  "name": "nextplan",
+  "name": "rgarom",
   "interface": {
-    "displayName": "Nextplan"
+    "displayName": "Rgarom Integrations"
   },
   "plugins": [
     {

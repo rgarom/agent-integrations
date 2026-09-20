@@ -1,0 +1,10 @@
+{
+  "name": "nextplan",
+  "version": "1.0.0",
+  "description": "Descubre planes locales con información actual, fuentes y enlaces a nextplan.",
+  "author": {
+    "name": "nextplan"
+  },
+  "homepage": "https://www.nextplan.es/asistentes",
+  "repository": "https://github.com/rgarom/agent-integrations"
+}

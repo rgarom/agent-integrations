@@ -1,0 +1,16 @@
+{
+  "name": "rgarom",
+  "owner": {
+    "name": "Rafa Garrido",
+    "url": "https://github.com/rgarom"
+  },
+  "description": "Integraciones de Rafa Garrido para asistentes de IA.",
+  "plugins": [
+    {
+      "name": "nextplan",
+      "source": "./plugins/nextplan",
+      "description": "Descubre planes locales con información actual, fuentes y enlaces a nextplan.",
+      "category": "Productivity"
+    }
+  ]
+}
