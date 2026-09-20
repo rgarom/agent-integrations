@@ -1,6 +1,7 @@
 {
   "name": "dupo",
-  "version": "0.1.0",
+  "displayName": "Dupo",
+  "version": "0.1.1",
   "description": "Encuentra y compara alternativas de muebles y decoración con el catálogo de Dupo.",
   "author": {
     "name": "Dupo",

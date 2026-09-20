@@ -1,6 +1,6 @@
 {
   "name": "dupo",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Encuentra y compara alternativas de muebles y decoración con el catálogo de Dupo.",
   "author": {
     "name": "Dupo",
@@ -19,6 +19,9 @@
     "websiteURL": "https://dupo.es/asistentes",
     "privacyPolicyURL": "https://dupo.es/privacy",
     "termsOfServiceURL": "https://dupo.es/terms",
+    "brandColor": "#0EA5E9",
+    "composerIcon": "./assets/icon.png",
+    "logo": "./assets/logo.png",
     "defaultPrompt": [
       "Encuentra lámparas de ratán por menos de 250 €.",
       "Busca alternativas a este mueble y compara las tres mejores.",
