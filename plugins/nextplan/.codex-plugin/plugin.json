@@ -1,0 +1,26 @@
+{
+  "name": "nextplan",
+  "version": "1.0.0",
+  "description": "Descubre planes locales con información actual, fuentes y enlaces a nextplan.",
+  "author": {
+    "name": "nextplan"
+  },
+  "homepage": "https://www.nextplan.es/asistentes",
+  "skills": "./skills/",
+  "mcpServers": "./.mcp.json",
+  "interface": {
+    "displayName": "nextplan",
+    "shortDescription": "Planes locales desde tu asistente",
+    "brandColor": "#c84e3b",
+    "websiteURL": "https://www.nextplan.es/asistentes",
+    "privacyPolicyURL": "https://www.nextplan.es/privacidad",
+    "termsOfServiceURL": "https://www.nextplan.es/terminos",
+    "defaultPrompt": [
+      "Busca planes gratis para este fin de semana en mi ciudad."
+    ],
+    "longDescription": "Busca planes locales por ciudad, fechas, precio y público. Consulta fuentes y continúa en nextplan con los filtros aplicados.",
+    "developerName": "nextplan",
+    "category": "Productivity",
+    "capabilities": ["Interactive"]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "name": "nextplan",
+  "interface": {
+    "displayName": "Nextplan"
+  },
+  "plugins": [
+    {
+      "name": "nextplan",
+      "source": {
+        "source": "local",
+        "path": "./plugins/nextplan"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}

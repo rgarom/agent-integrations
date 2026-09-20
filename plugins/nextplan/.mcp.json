@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "nextplan": {
+      "type": "http",
+      "url": "https://www.nextplan.es/mcp"
+    }
+  }
+}
