@@ -1,0 +1,12 @@
+{
+  "name": "dupo",
+  "version": "0.1.0",
+  "description": "Encuentra y compara alternativas de muebles y decoración con el catálogo de Dupo.",
+  "author": {
+    "name": "Dupo",
+    "url": "https://dupo.es"
+  },
+  "homepage": "https://dupo.es/asistentes",
+  "repository": "https://github.com/rgarom/agent-integrations",
+  "license": "MIT"
+}

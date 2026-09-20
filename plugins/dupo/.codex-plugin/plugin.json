@@ -1,0 +1,29 @@
+{
+  "name": "dupo",
+  "version": "0.1.0",
+  "description": "Encuentra y compara alternativas de muebles y decoración con el catálogo de Dupo.",
+  "author": {
+    "name": "Dupo",
+    "url": "https://dupo.es"
+  },
+  "homepage": "https://dupo.es/asistentes",
+  "repository": "https://github.com/rgarom/agent-integrations",
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Dupo",
+    "shortDescription": "Busca alternativas de muebles dentro de tu presupuesto.",
+    "longDescription": "Dupo busca por texto o imagen en un catálogo curado de muebles y decoración, y compara precios conocidos sin inventar datos de producto.",
+    "developerName": "Dupo",
+    "category": "Lifestyle",
+    "capabilities": ["Search", "Read"],
+    "websiteURL": "https://dupo.es/asistentes",
+    "privacyPolicyURL": "https://dupo.es/privacy",
+    "termsOfServiceURL": "https://dupo.es/terms",
+    "defaultPrompt": [
+      "Encuentra lámparas de ratán por menos de 250 €.",
+      "Busca alternativas a este mueble y compara las tres mejores.",
+      "Compara estos productos de Dupo por precio."
+    ]
+  },
+  "mcpServers": "./.mcp.json"
+}
