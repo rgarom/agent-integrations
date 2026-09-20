@@ -8,15 +8,10 @@
   "plugins": [
     {
       "name": "nextplan",
+      "displayName": "Nextplan",
       "source": "./plugins/nextplan",
       "description": "Descubre planes locales con información actual, fuentes y enlaces a nextplan.",
       "category": "Productivity"
-    },
-    {
-      "name": "dupo",
-      "source": "./plugins/dupo",
-      "description": "Encuentra y compara alternativas de muebles y decoración con el catálogo de Dupo.",
-      "category": "Lifestyle"
     }
   ]
 }

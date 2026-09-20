@@ -1,6 +1,6 @@
 {
   "name": "nextplan",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Descubre planes locales con información actual, fuentes y enlaces a nextplan.",
   "author": {
     "name": "nextplan"
@@ -10,9 +10,11 @@
   "skills": "./skills/",
   "mcpServers": "./.mcp.json",
   "interface": {
-    "displayName": "nextplan",
+    "displayName": "Nextplan",
     "shortDescription": "Planes locales desde tu asistente",
     "brandColor": "#c84e3b",
+    "composerIcon": "./assets/icon.png",
+    "logo": "./assets/logo.png",
     "websiteURL": "https://www.nextplan.es/asistentes",
     "privacyPolicyURL": "https://www.nextplan.es/privacidad",
     "termsOfServiceURL": "https://www.nextplan.es/terminos",

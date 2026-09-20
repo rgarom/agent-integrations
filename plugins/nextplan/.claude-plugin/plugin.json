@@ -1,6 +1,7 @@
 {
   "name": "nextplan",
-  "version": "1.0.0",
+  "displayName": "Nextplan",
+  "version": "1.0.1",
   "description": "Descubre planes locales con información actual, fuentes y enlaces a nextplan.",
   "author": {
     "name": "nextplan"
